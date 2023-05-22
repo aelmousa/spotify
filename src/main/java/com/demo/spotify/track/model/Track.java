@@ -1,4 +1,4 @@
-package com.demo.spotify.model;
+package com.demo.spotify.track.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
